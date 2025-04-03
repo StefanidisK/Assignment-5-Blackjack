@@ -2,7 +2,7 @@
 Create a Blackjack game for one player (The computer will be the dealer). The player will start at 100 points. For each round that the player wins, their score will increase by 10. For each round that the player loses, their score will decrease by 10. After each round, your game should ask the player if they want to play again (if they are not already broke!).
 
 ## Checklist
-- [ ]Includes sufficient internal documentation (comments and header)
+- [ ] Includes sufficient internal documentation (comments and header)
 - [ ]Uses descriptive variable and function names
 - [ ]Is organized with functions
 - [ ]Has clear user prompts
